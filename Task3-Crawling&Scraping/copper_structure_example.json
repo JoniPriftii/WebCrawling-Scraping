@@ -1,0 +1,65 @@
+{
+    "CuZn39Pb1Al-C": {
+        "01672": {
+            "comparsion_materials": [
+                "06634",
+                "09668",
+                "09669",
+                "01673",
+                "21626",
+                "24622",
+                "23616",
+                "11643",
+                "11642",
+                "12620",
+                "14658",
+                "14656",
+                "16634",
+                "16635",
+                "27648",
+                "27649",
+                "07650",
+                "16637",
+                "16636",
+                "25656",
+                "25658",
+                "10624"
+            ],
+            "data": {
+                "Material": {
+                    "Type of Material": "Wrought Alloy"
+                },
+                "Material Designation": {
+                    "Symbol": "C61000",
+                    "Number": "C61000",
+                    "Standard": "",
+                    "Former": "aluminum bronze"
+                },
+                "Standards": {
+                    "Strip": "FEDERAL QQ-C-450",
+                    "Sheet": "FEDERAL QQ-C-450",
+                    "Rod": "",
+                    "Wire": "AWS A5.7, MILITARY MIL-E-23765/3, Schweißzusatz, electrode welding",
+                    "Tube": "",
+                    "Profile": "FEDERAL QQ-C-450",
+                    "Forgings": ""
+                },
+                "Remark": [
+                    "US EPA Registered",
+                    "Cu value includes Ag"
+                ],
+                "Analysis": {
+                    "Al": [6.0, 8.5],
+                    "Cu": "+Ag: Rest",
+                    "Fe": [0, 0.5],
+                    "Pb": [0, 0.02],
+                    "Si": [0, 0.1],
+                    "Zn": [0, 0.2]
+                }
+            }
+        }
+    },
+    "123": {
+        "do_the_same_here_for_each_material": 0
+    }
+}

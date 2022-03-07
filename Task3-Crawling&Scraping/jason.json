@@ -1,0 +1,170 @@
+{
+  "CuZn39Pb1Al-C": {
+    "01672": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    },
+    "02206": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    },
+    "02059": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    }
+  },
+  "123": {
+    "01672": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    },
+    "02206": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    },
+    "02059": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    }
+  },
+  "144": {
+    "01672": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    },
+    "02206": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    },
+    "02059": {
+      "Comparsion Materials": [
+        "ym8Xo",
+        "26152",
+        "C14410",
+        "01099"
+      ],
+      "Data": {
+        "Material": {
+          "Type of Material:": "Wrought Alloy"
+        },
+        "Material Designation:": {
+          "Symbol:": "144",
+          "Number": "144",
+          "Standard": "AS 2738-2 : 1984"
+        }
+      }
+    }
+  }
+}
